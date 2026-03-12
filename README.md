@@ -1,5 +1,13 @@
 # HLL Branch Switcher
 
+---
+
+<p align="center">
+  <img src="rm_assets/bat_switcher_icon.png" alt="hll_switcher" width="370">
+</p>
+
+---
+
 A simple Windows `*.bat` switcher for **Hell Let Loose** (`APPID 686810`) that lets you switch quickly between the **NORMAL** and **EXPERIMENTAL** Steam branches without having to redownload the entire game every time.
 
 ## Why this tool was created
