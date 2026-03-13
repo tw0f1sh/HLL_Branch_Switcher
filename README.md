@@ -79,7 +79,7 @@ steamapps\common\Hell Let Loose_experimental
 
 ### 1. Start the batch file
 
-Run `HLL_Branch_Switcher.bat`.
+Run `HLL_Branch_Switcher.bat` __as Admin!__
 
 ### 2. Set the Steam path
 
